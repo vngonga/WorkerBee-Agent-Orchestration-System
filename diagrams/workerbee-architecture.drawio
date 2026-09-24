@@ -1,0 +1,127 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="d1IFYIDf4-YDqbrUTNF_">
+    <mxGraphModel dx="774" dy="1563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0PCxGB-cM14CXc-kacoc-25" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="580" width="420" x="20" y="-80" as="geometry" />
+        </mxCell>
+        <mxCell id="0PCxGB-cM14CXc-kacoc-7" edge="1" parent="0PCxGB-cM14CXc-kacoc-25" source="0PCxGB-cM14CXc-kacoc-1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="159.5" y="160" as="sourcePoint" />
+            <mxPoint x="160" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0PCxGB-cM14CXc-kacoc-8" edge="1" parent="0PCxGB-cM14CXc-kacoc-25" style="endArrow=classic;html=1;rounded=0;" target="0PCxGB-cM14CXc-kacoc-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="159.5" y="160" as="sourcePoint" />
+            <mxPoint x="160" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <object label="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;KEEPER&lt;div&gt;Human Operator&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;HIVEMIND&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Strategic Planner&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;DAG PLAN&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" id="0PCxGB-cM14CXc-kacoc-1">
+          <mxCell parent="0PCxGB-cM14CXc-kacoc-25" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="200" width="120" x="150" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="0PCxGB-cM14CXc-kacoc-9" edge="1" parent="0PCxGB-cM14CXc-kacoc-25" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="213" y="134" />
+            </Array>
+            <mxPoint x="213" y="164" as="sourcePoint" />
+            <mxPoint x="213" y="164" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0PCxGB-cM14CXc-kacoc-10" edge="1" parent="0PCxGB-cM14CXc-kacoc-25" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="212.5" y="60" />
+            </Array>
+            <mxPoint x="212.5" y="90" as="sourcePoint" />
+            <mxPoint x="212.5" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0PCxGB-cM14CXc-kacoc-11" parent="0PCxGB-cM14CXc-kacoc-25" style="rounded=0;whiteSpace=wrap;html=1;" value="RYE&lt;div&gt;Research&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="0PCxGB-cM14CXc-kacoc-13" parent="0PCxGB-cM14CXc-kacoc-25" style="rounded=0;whiteSpace=wrap;html=1;" value="CLOVER&lt;div&gt;Content&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="300" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="0PCxGB-cM14CXc-kacoc-14" parent="0PCxGB-cM14CXc-kacoc-25" style="rounded=0;whiteSpace=wrap;html=1;" value="AXEL&lt;div&gt;Analysis&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="150" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="0PCxGB-cM14CXc-kacoc-16" parent="0PCxGB-cM14CXc-kacoc-25" style="rounded=0;whiteSpace=wrap;html=1;" value="CORA&lt;div&gt;Coordinator&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;QUINN&lt;/div&gt;&lt;div&gt;Quality Review&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;HIVEMIND&lt;/div&gt;&lt;div&gt;Final Synthesis&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;FINAL DELIVERABLE&lt;/div&gt;" vertex="1">
+          <mxGeometry height="250" width="420" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="0PCxGB-cM14CXc-kacoc-17" edge="1" parent="0PCxGB-cM14CXc-kacoc-25" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="392" />
+            </Array>
+            <mxPoint x="210" y="422" as="sourcePoint" />
+            <mxPoint x="210" y="422" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0PCxGB-cM14CXc-kacoc-18" edge="1" parent="0PCxGB-cM14CXc-kacoc-25" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="211" y="447" />
+            </Array>
+            <mxPoint x="211" y="477" as="sourcePoint" />
+            <mxPoint x="211" y="477" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0PCxGB-cM14CXc-kacoc-19" edge="1" parent="0PCxGB-cM14CXc-kacoc-25" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="209.5" y="510" />
+            </Array>
+            <mxPoint x="209.5" y="540" as="sourcePoint" />
+            <mxPoint x="209.5" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0PCxGB-cM14CXc-kacoc-20" edge="1" parent="0PCxGB-cM14CXc-kacoc-25" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="207" y="299" />
+            </Array>
+            <mxPoint x="207" y="329" as="sourcePoint" />
+            <mxPoint x="207" y="329" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0PCxGB-cM14CXc-kacoc-21" edge="1" parent="0PCxGB-cM14CXc-kacoc-25" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="208" />
+            </Array>
+            <mxPoint x="210" y="238" as="sourcePoint" />
+            <mxPoint x="210" y="238" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0PCxGB-cM14CXc-kacoc-23" edge="1" parent="0PCxGB-cM14CXc-kacoc-25" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="60" y="200" />
+              <mxPoint x="150" y="200" />
+              <mxPoint x="50" y="200" />
+            </Array>
+            <mxPoint x="50" y="238" as="sourcePoint" />
+            <mxPoint x="50" y="238" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0PCxGB-cM14CXc-kacoc-24" edge="1" parent="0PCxGB-cM14CXc-kacoc-25" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="377" y="200" />
+              <mxPoint x="270" y="200" />
+              <mxPoint x="390" y="200" />
+            </Array>
+            <mxPoint x="377" y="230" as="sourcePoint" />
+            <mxPoint x="377" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
